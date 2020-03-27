@@ -1,0 +1,3 @@
+for calibrate Camera
+opencv install:
+sudo apt-get install libopencv-dev python-opencv
